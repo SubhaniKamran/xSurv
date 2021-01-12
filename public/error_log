@@ -1,0 +1,2 @@
+[18-Dec-2020 14:18:23 UTC] PHP Fatal error:  Cannot use Carbon\Carbon as Carbon because the name is already in use in /home/skyaroos/xs.skyaroos.com/app/Http/Controllers/EmailsManagementController.php on line 10
+[18-Dec-2020 14:20:17 UTC] PHP Fatal error:  Cannot use Carbon\Carbon as Carbon because the name is already in use in /home/skyaroos/xs.skyaroos.com/app/Http/Controllers/EmailsManagementController.php on line 10
